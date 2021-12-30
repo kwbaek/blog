@@ -1,0 +1,4 @@
+baseURL = 'https://kwbaek.github.io/'
+languageCode = 'ko-kr'
+title = "Kyungwook's Devlog"
+theme = "PaperMod"
