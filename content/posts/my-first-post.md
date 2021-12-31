@@ -2,6 +2,8 @@
 title: "처음 써보는 Github pages"
 date: 2021-12-30T16:24:21+09:00
 draft: false
+tags: ["diary"]
+comments: true
 ---
 
 - 블로그를 tistory 에서 운영 중이지만 글을 올린지 십수년, 주로 코드 기억용으로 snippet 처럼 사용 했다.
