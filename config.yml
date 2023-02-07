@@ -1,0 +1,19 @@
+baseURL: "https://kwbaek.github.io"
+languageCode : 'ko-kr'
+title: Kyungwook's Devlog
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: Kyungwook's Devlog
+      name: Kyungwook's Devlog
+      url: https://kwbaek.github.io/
+      weight: 30
