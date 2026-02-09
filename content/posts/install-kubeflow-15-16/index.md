@@ -6,7 +6,7 @@ categories: "os/linux"
 tags:
 - "os"
 - "linux"
-  comments: true
+comments: true
 ---기
 
 # kubeflow 16 설치하기 
