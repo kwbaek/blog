@@ -3,6 +3,9 @@ languageCode : 'ko-kr'
 title: Kyungwook's Devlog
 theme: PaperMod
 
+params:
+  comments: true
+
 menu:
   main:
     - identifier: categories
