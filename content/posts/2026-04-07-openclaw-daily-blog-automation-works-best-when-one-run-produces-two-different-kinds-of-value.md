@@ -1,6 +1,6 @@
 ---
 title: "OpenClaw 팁: 매일 블로그 자동화는 한 번 돌 때 두 종류의 가치를 만들어야 오래 간다"
-date: 2026-04-07T21:05:00+09:00
+date: 2026-04-07T20:55:00+09:00
 draft: false
 categories:
   - openclaw
