@@ -1,6 +1,6 @@
 ---
 title: "OpenClaw 팁: Discord 트렌드 피드를 매일 발행 파이프라인으로 바꾸기"
-date: 2026-05-01T21:05:00+09:00
+date: 2026-05-01T21:00:00+09:00
 draft: false
 categories: ["openclaw"]
 tags: ["OpenClaw", "Discord", "Cron", "Hugo", "Automation", "Publishing"]
