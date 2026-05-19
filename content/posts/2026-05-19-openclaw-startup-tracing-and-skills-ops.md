@@ -1,6 +1,6 @@
 ---
 title: "OpenClaw 팁: 에이전트 운영에서 startup trace와 skill 관리가 중요한 이유"
-date: 2026-05-19T21:05:00+09:00
+date: 2026-05-19T21:00:00+09:00
 draft: false
 categories: ["openclaw"]
 tags: ["OpenClaw", "Agents", "Operations", "Skills", "Browser", "Reliability", "Cron"]
