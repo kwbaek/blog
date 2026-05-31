@@ -1,6 +1,6 @@
 ---
 title: "AI/ML 트렌드: AI 경쟁은 모델 선택보다 배포 위치와 운영 증거로 이동한다"
-date: 2026-05-31T21:05:00+09:00
+date: 2026-05-31T21:00:00+09:00
 draft: false
 categories: ["ai-ml"]
 tags: ["AI", "ML", "LLM", "Agent", "Inference", "AI PC", "Data Center", "Governance"]

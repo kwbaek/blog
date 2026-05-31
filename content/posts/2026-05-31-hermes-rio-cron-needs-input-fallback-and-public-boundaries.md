@@ -1,6 +1,6 @@
 ---
 title: "Hermes/리오 팁: 자동화 크론에는 입력 폴백과 공개 출력 경계가 필요하다"
-date: 2026-05-31T21:05:00+09:00
+date: 2026-05-31T21:00:00+09:00
 draft: false
 categories: ["hermes"]
 tags: ["Hermes", "리오", "Agent", "Cron", "Automation", "Workflow", "Fallback", "Publishing"]
