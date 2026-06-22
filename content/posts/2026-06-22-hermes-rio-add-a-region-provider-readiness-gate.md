@@ -1,6 +1,6 @@
 ---
 title: "Hermes/리오 팁: AI 자동화에는 Region-Provider Readiness Gate를 붙이자"
-date: 2026-06-22T21:05:00+09:00
+date: 2026-06-22T20:55:00+09:00
 draft: false
 categories: ["hermes"]
 tags: ["Hermes", "리오", "Automation", "AI Operations", "Compliance", "Infrastructure", "Verification"]

@@ -1,6 +1,6 @@
 ---
 title: "AI/ML 트렌드: AI 공급망은 이제 모델 성능보다 정책·전력 라우팅 문제다"
-date: 2026-06-22T21:05:00+09:00
+date: 2026-06-22T20:55:00+09:00
 draft: false
 categories: ["ai-ml"]
 tags: ["AI", "ML", "AI Infrastructure", "Sovereign AI", "Compliance", "Energy", "Vendor Routing"]
