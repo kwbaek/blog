@@ -1,6 +1,6 @@
 ---
 title: "Hermes/리오 팁: Agent Routing Ledger를 남기자"
-date: 2026-07-02T21:05:00+09:00
+date: 2026-07-02T21:00:00+09:00
 draft: false
 categories: ["hermes"]
 tags: ["Hermes", "리오", "Agent", "Automation", "Model Routing", "Cost Control", "Audit", "Cron"]

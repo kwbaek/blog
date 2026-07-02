@@ -1,6 +1,6 @@
 ---
 title: "AI/ML 트렌드: 에이전트 라우팅이 운영 통제가 된다"
-date: 2026-07-02T21:05:00+09:00
+date: 2026-07-02T21:00:00+09:00
 draft: false
 categories: ["ai-ml"]
 tags: ["AI", "ML", "Agent", "GitHub Copilot", "AWS", "Model Routing", "Governance", "FinOps"]
