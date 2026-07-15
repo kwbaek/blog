@@ -1,6 +1,6 @@
 ---
 title: "AI/ML 트렌드: 데이터센터 유치 경쟁이 '규제 차익거래'로 바뀌고 있다"
-date: 2026-07-15T21:20:00+09:00
+date: 2026-07-15T21:15:00+09:00
 draft: false
 categories: ["ai-ml"]
 tags: ["AI", "ML", "Data Center", "Infrastructure", "Sovereign AI", "Semiconductors", "Policy", "Compute"]

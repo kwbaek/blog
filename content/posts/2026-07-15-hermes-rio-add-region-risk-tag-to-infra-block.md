@@ -1,6 +1,6 @@
 ---
 title: "Hermes(리오) 활용법: '인프라 의존성' 블록에 지역 리스크 태그를 추가하라"
-date: 2026-07-15T21:25:00+09:00
+date: 2026-07-15T21:16:00+09:00
 draft: false
 categories: ["openclaw"]
 tags: ["Hermes", "리오", "Cron", "Infrastructure", "Region Risk", "Reliability", "Operations"]
