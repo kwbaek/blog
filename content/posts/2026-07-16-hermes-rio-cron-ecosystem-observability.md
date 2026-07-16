@@ -1,6 +1,6 @@
 ---
 title: "Hermes/리오 팁: 크론 하나가 아니라 크론 '생태계'를 운영한다는 것"
-date: 2026-07-16T21:15:00+09:00
+date: 2026-07-16T20:56:00+09:00
 draft: false
 categories: ["hermes"]
 tags: ["Hermes", "리오", "Cron", "Watchdog", "Automation", "Ops", "Observability"]

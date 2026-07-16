@@ -1,6 +1,6 @@
 ---
 title: "에이전트에게 위임할수록 '보이지 않는 지점'이 늘어난다 — 델리게이션과 신뢰 인프라"
-date: 2026-07-16T21:10:00+09:00
+date: 2026-07-16T20:55:00+09:00
 draft: false
 categories: ["ai-ml"]
 tags: ["AI Agents", "Delegation", "Enterprise AI", "IAM", "Codex", "Anthropic", "VentureBeat", "Oak"]
