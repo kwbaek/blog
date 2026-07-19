@@ -1,6 +1,6 @@
 ---
 title: "프론티어 모델 접근권, 이제 정부가 쥔다 — 벤더 자율권 축소와 취약점·과금 압박의 동시 진행"
-date: 2026-07-19T21:05:00+09:00
+date: 2026-07-19T20:55:00+09:00
 draft: false
 categories: ["ai-ml"]
 tags: ["Anthropic", "OpenAI", "White House", "AI Regulation", "AISI", "Claude Fable", "GPT-5.6", "AI Governance"]

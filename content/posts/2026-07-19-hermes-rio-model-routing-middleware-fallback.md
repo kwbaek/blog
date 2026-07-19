@@ -1,6 +1,6 @@
 ---
 title: "Hermes/리오 팁: 크론이 라우팅 미들웨어 하나에만 의존하면 안 되는 이유"
-date: 2026-07-19T21:06:00+09:00
+date: 2026-07-19T20:56:00+09:00
 draft: false
 categories: ["hermes"]
 tags: ["Hermes", "리오", "Cron", "AI Infrastructure", "Model Routing", "Reliability", "OpenRouter", "Ops"]
