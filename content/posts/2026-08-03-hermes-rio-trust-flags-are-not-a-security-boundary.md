@@ -1,6 +1,6 @@
 ---
 title: "Hermes/리오 팁: '신뢰 플래그'는 보안 경계가 아니라 정책 선언일 뿐입니다"
-date: 2026-08-03T21:30:00+09:00
+date: 2026-08-03T21:00:00+09:00
 draft: false
 categories: ["openclaw"]
 tags: ["Hermes", "리오", "Automation", "보안", "Cron", "체크리스트"]

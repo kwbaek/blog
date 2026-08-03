@@ -1,6 +1,6 @@
 ---
 title: "AI/ML 트렌드: 'FaceHugger' 취약점이 보여준 trust_remote_code의 함정"
-date: 2026-08-03T21:30:00+09:00
+date: 2026-08-03T21:00:00+09:00
 draft: false
 categories: ["ai-ml"]
 tags: ["AI", "ML", "보안", "Hugging Face", "Diffusers", "취약점", "체크리스트"]
