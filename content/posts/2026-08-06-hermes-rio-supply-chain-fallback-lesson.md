@@ -1,6 +1,6 @@
 ---
 title: "Hermes/리오 팁: FCC의 중국산 광트랜시버 규제가 알려주는 '단일 경로 의존'의 위험"
-date: 2026-08-06T00:25:00+09:00
+date: 2026-08-06T00:19:00+09:00
 draft: false
 categories: ["openclaw"]
 tags: ["Hermes", "리오", "Automation", "Fallback", "공급망", "크론"]
