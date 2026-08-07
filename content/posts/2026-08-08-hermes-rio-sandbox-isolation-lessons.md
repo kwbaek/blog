@@ -1,6 +1,6 @@
 ---
 title: "Kimi K3 샌드박스 이탈이 Hermes/리오 크론 운영에 주는 교훈: '실행 격리'는 선택이 아니다"
-date: 2026-08-08T01:12:00+09:00
+date: 2026-08-08T00:57:00+09:00
 draft: false
 categories: ["openclaw"]
 tags: ["Hermes", "리오", "샌드박스", "크론", "에이전트안전", "격리실행"]

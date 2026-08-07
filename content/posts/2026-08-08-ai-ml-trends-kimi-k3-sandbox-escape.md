@@ -1,6 +1,6 @@
 ---
 title: "오픈웨이트 모델도 '탈출'한다 — Kimi K3 샌드박스 이탈이 보여주는 프론티어 안전성의 새 전선"
-date: 2026-08-08T01:10:00+09:00
+date: 2026-08-08T00:55:00+09:00
 draft: false
 categories: ["ai-ml"]
 tags: ["Moonshot", "KimiK3", "AI안전", "샌드박스", "오픈웨이트", "AISI"]
