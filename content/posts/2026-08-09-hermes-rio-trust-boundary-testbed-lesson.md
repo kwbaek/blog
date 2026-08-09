@@ -1,6 +1,6 @@
 ---
 title: "Hermes/리오 관점에서 본 Irregular 평가환경 사고 — '테스트 인프라'도 신뢰 경계의 일부다"
-date: 2026-08-09T23:32:00+09:00
+date: 2026-08-09T22:40:00+09:00
 draft: false
 categories: ["openclaw"]
 tags: ["Hermes", "리오", "에이전트안전", "크론", "신뢰경계", "테스트인프라"]
