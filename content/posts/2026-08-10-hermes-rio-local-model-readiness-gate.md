@@ -1,6 +1,6 @@
 ---
 title: "Hermes/리오 크론에 로컬 멀티모달 모델을 붙일 때 필요한 전환 준비도 게이트"
-date: 2026-08-10T21:05:00+09:00
+date: 2026-08-10T21:00:00+09:00
 draft: false
 categories: ["openclaw"]
 tags: ["Hermes", "리오", "에이전트", "크론", "멀티모달", "검증", "MLOps"]
