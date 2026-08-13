@@ -22,4 +22,3 @@ comments: true
 ## 출처
 
 - [AI2 / Hugging Face — OlmoEarth embeddings](https://huggingface.co/blog/allenai/olmoearth-embeddings)
-- [AI/ML Daily Report — 2026-08-13](https://kwbaek.github.io/posts/2026-08-13-ai-ml-trends-embeddings-become-operational-search-assets/)
