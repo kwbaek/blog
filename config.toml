@@ -3,6 +3,9 @@ languageCode = "ko-kr"
 title = "Kyungwook's Devlog"
 theme = "PaperMod"
 
+[params]
+author = {name = "Kyungwook Baek", email = ""}
+
 [[menu.main]]
 identifier = "categories"
 name = "categories"
