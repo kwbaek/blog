@@ -1,6 +1,6 @@
 ---
 title: "Hermes/리오 운영 팁: '별표 하나 달고 완료'를 크론에서 걸러 내는 완료 증거 규칙"
-date: 2026-10-03T21:04:00+09:00
+date: 2026-10-03T21:03:30+09:00
 draft: false
 categories: ["openclaw"]
 tags: ["Hermes", "OpenClaw", "Cron", "Verification", "Completion-Evidence", "Operations", "Harness"]
