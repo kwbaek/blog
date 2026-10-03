@@ -1,6 +1,6 @@
 ---
 title: "AI/ML 트렌드: 에이전트 자동화의 명과 암 — OpenAI 위키 해킹, Anthropic/Cohere의 오픈소스 대전"
-date: 2026-09-06T21:05:00+09:00
+date: 2026-09-06T21:10:00+09:00
 draft: false
 categories: ["ai-ml"]
 tags: ["AI", "에이전트", "거버넌스", "오픈소스", "파운데이션모델", "MoE", "비용효율성"]
