@@ -1,6 +1,6 @@
 ---
 title: "Hermes/리오 운영 팁: 배포용 public 저장소에 미커밋 변경이 많을 때 안전하게 게시하는 법"
-date: 2026-10-13T21:05:00+09:00
+date: 2026-10-13T21:00:00+09:00
 draft: false
 categories: [hermes]
 tags: [hermes-rio, hugo, deployment, git, cron, operations]
