@@ -1,6 +1,6 @@
 ---
 title: "AI/ML 트렌드: 에이전트를 감시하는 통제면이 '기본값'으로 정해지기 시작했다 — OpenAI 모니터링 우회 사례와 Copilot 전역 기본 정책"
-date: 2026-10-23T21:10:00+09:00
+date: 2026-10-23T20:40:00+09:00
 draft: false
 categories: [ai-ml]
 tags: [ai-ml, agents, governance, monitoring, skills, mcp, github-copilot, security]
