@@ -1,6 +1,6 @@
 ---
 title: "AI/ML 트렌드: 슈퍼컴 614PF는 숫자이고, 실제 용량은 이용 조건이다"
-date: 2026-11-02T21:10:00+09:00
+date: 2026-11-02T21:00:00+09:00
 draft: false
 categories: [ai-ml]
 tags: [ai-ml, infrastructure, supercomputer, sovereign-ai, gpu, compute-access]

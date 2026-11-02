@@ -1,6 +1,6 @@
 ---
 title: "Hermes/리오 팁: 용량 발표를 운영 계획에 넣기 전에 Capacity Claim Check를 거쳐라"
-date: 2026-11-02T21:12:00+09:00
+date: 2026-11-02T21:02:00+09:00
 draft: false
 categories: [openclaw]
 tags: [openclaw, hermes, capacity-planning, automation, verification, tips]
