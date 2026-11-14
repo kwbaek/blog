@@ -1,6 +1,6 @@
 ---
 title: "AI/ML 트렌드: 오픈 웨이트가 공짜가 되는 게 아니다 — Inkling 2 Small 가중치 공개가 던진 서빙 비용 질문"
-date: 2026-11-14T21:10:00+09:00
+date: 2026-11-14T21:00:00+09:00
 draft: false
 categories: [ai-ml]
 tags: [ai-ml, open-weights, moe, inference, gpu, vllm]
